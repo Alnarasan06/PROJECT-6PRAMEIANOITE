@@ -2,8 +2,8 @@
      --cor-de-fundo: #000000; 
      --verde: #000000; 
      --branco: #FFFFFF; 
-     --botao-ativo: #ff0000; 
-     --botao-inativo: rgb(187, 0, 0); 
+     --botao-ativo: #c70c0c; 
+     --botao-inativo: rgb(255, 0, 0); 
      --texto-fundo: rgba(0, 0, 0, 0.3); 
 }    
 
@@ -34,7 +34,7 @@ body {
     font-family: monospace;
     background-color: var(--botao-inativo);
     color: var(--branco); 
-    color: #000000;
+    color: #ffffff;
     display: flex;
     justify-content: center;
     padding: 1em;
